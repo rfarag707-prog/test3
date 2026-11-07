@@ -1,0 +1,158 @@
+{
+  "downloaded_utc": "2026-11-06",
+  "source": "Exact Kaggle datasets required by Session 26",
+  "imdb_metadata_rows": 12917629,
+  "imdb_split": "All original columns and rows, header repeated per gzip part; no sample",
+  "sources": {
+    "facebook": "https://www.kaggle.com/datasets/masoodanzar/facebook-metrics",
+    "imdb": "https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset/",
+    "telco": "https://www.kaggle.com/datasets/blastchar/telco-customer-churn"
+  },
+  "files": [
+    {
+      "path": "data/imdb/title.basics.part026.tsv.gz",
+      "bytes": 6973895,
+      "sha256": "ed3bff249ed99f05a10b7e4bc12f83b05af7af06a0ebc4243a6c5170ed5b4b0c"
+    },
+    {
+      "path": "data/imdb/title.basics.part003.tsv.gz",
+      "bytes": 8592846,
+      "sha256": "92d7ded6dd60486a7f815021add25ee571c83c40cd3da442b7fc3d8d9f76fce2"
+    },
+    {
+      "path": "data/imdb/title.basics.part016.tsv.gz",
+      "bytes": 9601218,
+      "sha256": "aaea925e21d94eb6756c0c57de7715680230fb6d59eab2da1aa41585efb9de36"
+    },
+    {
+      "path": "data/imdb/title.basics.part011.tsv.gz",
+      "bytes": 8778277,
+      "sha256": "6763551c791fe0700f6b884c6d5607c66dbaba7e72d6233bd6ff2269e809eb39"
+    },
+    {
+      "path": "data/imdb/title.basics.part025.tsv.gz",
+      "bytes": 8391507,
+      "sha256": "f161493cc3d7963cb6f695725b11971cc696388e32970e5efeddf2fb60f77285"
+    },
+    {
+      "path": "data/imdb/title.basics.part008.tsv.gz",
+      "bytes": 8716065,
+      "sha256": "ccf8aebd139f6c3e9930d14765f310047a6099a6c299bd46a07b797b60fc7ca0"
+    },
+    {
+      "path": "data/imdb/title.basics.part020.tsv.gz",
+      "bytes": 9154593,
+      "sha256": "142ee17429873046f2ddf19a419cd39b8bce47f3687c5a75e44ea79ab5504b75"
+    },
+    {
+      "path": "data/imdb/title.basics.part005.tsv.gz",
+      "bytes": 8568979,
+      "sha256": "fb5df490bdbd01b12248b9527ef588fdb75a949a99bd34ba28e209ac99ab6ef6"
+    },
+    {
+      "path": "data/imdb/title.basics.part021.tsv.gz",
+      "bytes": 9015842,
+      "sha256": "720f3e6bffbdc8d7442b0b321aa1e6916310b6af1e2461766f4ea5ac7f6fe61a"
+    },
+    {
+      "path": "data/imdb/title.basics.part017.tsv.gz",
+      "bytes": 9455987,
+      "sha256": "3403dc1aa64784dda80944b6bc2fd529aa5322f455dca811becd8e4030560b4d"
+    },
+    {
+      "path": "data/imdb/title.basics.part019.tsv.gz",
+      "bytes": 9003493,
+      "sha256": "17eed88d054d2fb4a0616151fd9adeeae4d0aa170f4edef73d9492bf4f142580"
+    },
+    {
+      "path": "data/imdb/title.basics.part001.tsv.gz",
+      "bytes": 11400997,
+      "sha256": "6861127d2040582395aba3787f3955e7b4f8e52c5b5183b8ec4218c2203b4e36"
+    },
+    {
+      "path": "data/imdb/title.basics.part006.tsv.gz",
+      "bytes": 8702191,
+      "sha256": "17bbc3c857da2dba1c56cc5da7f10dcf909ca1d0068c495403080b2996d15e95"
+    },
+    {
+      "path": "data/imdb/title.basics.part012.tsv.gz",
+      "bytes": 9000710,
+      "sha256": "e0cd5eb9c1d1080251575c7a21945dfaff3523c9f24ce40834d602046b8140a5"
+    },
+    {
+      "path": "data/imdb/title.basics.part014.tsv.gz",
+      "bytes": 8707523,
+      "sha256": "b082ecfcbe1085b1449226b5b5b6e04a415cdf6ca7815a0620feb3a219c7e8dd"
+    },
+    {
+      "path": "data/imdb/title.basics.part024.tsv.gz",
+      "bytes": 9173105,
+      "sha256": "93f2c2ecba7af25a4e28c6cf1a476deea567b43fc780bc1c500f00c0156117bd"
+    },
+    {
+      "path": "data/imdb/title.basics.part018.tsv.gz",
+      "bytes": 9819691,
+      "sha256": "6faceb4e537ba016248abe18286616cd4d819a516c0eae63d265666d3a8da000"
+    },
+    {
+      "path": "data/imdb/title.ratings.tsv.gz",
+      "bytes": 8759181,
+      "sha256": "b230d76bfa22f8a7910cbaddd06f0d868f6a7dcbb0dcf815821fe06c259b76b1"
+    },
+    {
+      "path": "data/imdb/title.basics.part002.tsv.gz",
+      "bytes": 8594624,
+      "sha256": "39c476b91b0c9c89418a94c146ab806a394134c92d7cf915dd0c6485d50621ab"
+    },
+    {
+      "path": "data/imdb/title.basics.part004.tsv.gz",
+      "bytes": 8463551,
+      "sha256": "20672107080dc9189a35eb65459df88abc6782fec25867cb32b2f01c24638961"
+    },
+    {
+      "path": "data/imdb/title.basics.part022.tsv.gz",
+      "bytes": 9295777,
+      "sha256": "c5df26947ad0652d2da8f6266dbaa88f7d37b4fc4ee0f4cb64ef72bfcb0be9bb"
+    },
+    {
+      "path": "data/imdb/title.basics.part010.tsv.gz",
+      "bytes": 8924006,
+      "sha256": "5d1808e19c2af9940d132c136fc52aab406ab8b85a3ee02232e95220de8357ff"
+    },
+    {
+      "path": "data/imdb/title.basics.part009.tsv.gz",
+      "bytes": 8068613,
+      "sha256": "a3f0d0ae1dd91071539dad60990b6ebd79579d40b61c6e379ba5be31eff7cdbf"
+    },
+    {
+      "path": "data/imdb/title.basics.part007.tsv.gz",
+      "bytes": 8639376,
+      "sha256": "97132d5860e8f564f36975e710b8161d54332d96950e4c2b59dab9d6f6296bd1"
+    },
+    {
+      "path": "data/imdb/title.basics.part013.tsv.gz",
+      "bytes": 8821326,
+      "sha256": "2f3a13dee8f75a250819f91d2c6d3776bdbc5c27c30597c2e6b64351e4244f20"
+    },
+    {
+      "path": "data/imdb/title.basics.part015.tsv.gz",
+      "bytes": 9451558,
+      "sha256": "e1d6cdecac735fb2dc9d91f3da6449246f740c84bf1e35259f47cb97bbc18e73"
+    },
+    {
+      "path": "data/imdb/title.basics.part023.tsv.gz",
+      "bytes": 9562279,
+      "sha256": "4c194a48406d4bd75a8ebf7ec5bfbe7e8fc5978aa914a0d8bded62adb192b39c"
+    },
+    {
+      "path": "data/facebook/dataset_Facebook.csv",
+      "bytes": 37891,
+      "sha256": "666ec82952b7ce90b464f5a87ec4f0fe92d9a63208f2fcb2d0443cb5f31c3f4c"
+    },
+    {
+      "path": "data/telco/WA_Fn-UseC_-Telco-Customer-Churn.csv",
+      "bytes": 977501,
+      "sha256": "88be4b93fbe0cc83421af1c503794c97c342eca914c1576db7c276e61d61358a"
+    }
+  ]
+}

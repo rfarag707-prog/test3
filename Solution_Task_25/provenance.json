@@ -1,0 +1,19 @@
+{
+  "retrieved": "2026-11-05",
+  "files": {
+    "01_Video_Game_Sales/data/video_game_sales.csv": {
+      "sha256": "78feb45928b33958e1978f8945e491a5ee968f3b401b3e52da5e3304a3c8d78b",
+      "bytes": 1610764
+    },
+    "02_Netflix_Shows/data/netflix_titles.csv": {
+      "sha256": "df1f4ad2027a5a14c3a33932ef0d4054565ff88adf92b7f263601b70fdc6f3f3",
+      "bytes": 3399671
+    }
+  },
+  "versions": {
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "matplotlib": "3.10.8",
+    "seaborn": "0.13.2"
+  }
+}
